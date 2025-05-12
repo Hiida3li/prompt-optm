@@ -1,0 +1,40 @@
+# payload={}
+# context = {
+#     "user_message": "Customer complained about delayed refund for returned item. Support responses averaged 15 minutes. Customer grew frustrated when agent requested already-provided order number twice. Issue resolved after supervisor intervention."
+# }
+# config = {
+#     "model": {
+#         "provider": "openai",
+#         "model": "gpt-4o",
+#         "temperature": 0.1,
+#         "max_tokens": 1000,
+#        #"mode":"PARALLEL_TOOLS"
+#     },
+#     "sys_tmpl": sys_prompt_template,
+#     "usr_tmpl": user_prompt_template,
+#     "response_type": "structured_response",
+#     "DynamicModel":[{'properties': {'description': {'description': 'Internet Issue',
+#     'title': 'Description',
+#     'type': 'string'}},
+#   'required': ['description'],
+#   'title': 'internetissue',
+#   'type': 'object'},
+#  {'properties': {'description': {'description': 'Response Delay',
+#     'title': 'Description',
+#     'type': 'string'}},
+#   'required': ['description'],
+#   'title': 'responsedelay',
+#   'type': 'object'},
+#  {'properties': {'description': {'description': 'Service Outage Duration',
+#     'title': 'Description',
+#     'type': 'string'}},
+#   'required': ['description'],
+#   'title': 'serviceoutageduration',
+#   'type': 'object'},
+#  {'properties': {'description': {'description': 'Billing Issue',
+#     'title': 'Description',
+#     'type': 'string'}},
+#   'required': ['description'],
+#   'title': 'billingissue',
+#   'type': 'object'}]
+# }
