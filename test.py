@@ -18,3 +18,6 @@ def create_topic_schema(topic_list: List[str]) -> str:
         schema_dict.append(TopicModel.model_json_schema())
         # Return the schema as a formatted JSON string
     return schema_dict
+    
+topics = ["Issue resolution", "Damaged product", "Poor customer support","Refund delay", "Agent communication issues", "Escalation to management"]
+py_models = create_topic_schema(topics)    
