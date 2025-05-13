@@ -14,6 +14,26 @@
 "Instructions were clear",
 "Early-stage buyer",
 "Quote Request",
-
+"Issue not solved",
+"Issue solved in chat",
+"No compensation given",
+"Customer got compensation",
+"Bad product quality",
+"Good product quality",
+"Item was missing parts or broken",
+"Item worked perfectly",
+"Refund delayed",
+"Lead Engagement Stage",
+"Show Interest Trial",
+"Preference: Job Offers Only",
+"Rejected Promotions",
+"Future Assistance Offer",
+"Customer wants a new feature",
+"Instructions were clear",
+"Customer wants a new feature",
+"Clear product inquiry",
+"Agent asked relevant follow-up",
+"Agent didn't confirm availability",
+""
 
 ]
