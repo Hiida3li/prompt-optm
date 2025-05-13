@@ -1,0 +1,48 @@
+Name: Agent replied slowly
+Description: Concerns delayed agent responses, excessive wait times between messages, and sluggish communication that frustrates customers.
+Name: Agent replied quickly
+Description: Covers prompt, rapid responses from agents providing immediate assistance without unnecessary delays.
+Name: Unfriendly agent
+Description: Refers to rude, cold, or dismissive representatives lacking courtesy and proper customer service attitude.
+Name: Friendly and professional agent
+Description: Highlights courteous, warm interactions while maintaining appropriate business etiquette and helpfulness.
+Name: Instructions were confusing
+Description: Addresses unclear, complicated, or ambiguous guidance that customers found difficult to follow.
+Name: Instructions were clear
+Description: Encompasses straightforward, easy-to-understand directions that customers could follow without confusion.
+Name: Issue not solved
+Description: Pertains to unresolved problems that remained after customer service interaction concluded.
+Name: Issue solved in chat
+Description: Covers problems successfully addressed and completely resolved during the conversation without further steps.
+Name: No compensation given
+Description: Relates to lack of refunds, credits, or goodwill gestures despite service or product issues.
+Name: Customer got compensation
+Description: Encompasses refunds, credits, discounts or other forms of redress provided for inconvenience or problems.
+Name: Bot didn't hand over to human
+Description: Concerns AI assistants failing to escalate to live representatives despite complexity or customer requests.
+Name: Bot handed over smoothly
+Description: Highlights seamless transitions from automated assistance to human representatives when appropriate.
+Name: Long wait for human agent
+Description: Addresses extended queue times before connecting with live representatives, causing customer frustration.
+Name: Quick access to human agent
+Description: Covers rapid connections to live representatives with minimal waiting periods or queue times.
+Name: Delivery was late
+Description: Encompasses packages arriving after promised timeframes, missed delivery windows, or shipping delays.
+Name: Delivery arrived early or on time
+Description: Relates to punctual or ahead-of-schedule arrival meeting or exceeding delivery commitments.
+Name: Delivery times didn't suit customer
+Description: Addresses inconvenient delivery schedules conflicting with customer availability or preferences.
+Name: Delivery time options were convenient
+Description: Highlights flexible, accommodating delivery windows aligning well with customer needs and schedule.
+Name: Internet was down
+Description: Focuses on connectivity failures preventing customers from accessing online services or platforms.
+Name: Bad product quality
+Description: Encompasses substandard items, defective merchandise, or products failing to meet expected standards.
+Name: Good product quality
+Description: Addresses well-made, durable products that meet or exceed quality and performance expectations.
+Name: Item was missing parts or broken
+Description: Covers incomplete or damaged products with missing components, broken elements, or manufacturing defects.
+Name: Item worked perfectly
+Description: Highlights products functioning flawlessly as advertised without defects or performance issues.
+Name: Customer wants a new feature
+Description: Encompasses requests for additional product capabilities, service enhancements, or functionality improvements.
