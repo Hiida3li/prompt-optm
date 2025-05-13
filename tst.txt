@@ -34,6 +34,23 @@
 "Clear product inquiry",
 "Agent asked relevant follow-up",
 "Agent didn't confirm availability",
-""
+"Asked about plan and accepted cards",
+"Agent mentioned offers",
+"Customer prefers limited contact",
+"Customer registered for free trial",
+"Customer prefers email text only",
+"Customer initiated conversation",
+"Agent personalized message",
+"Proactive agent outreach",
+"Offer included",
+"Agent acknowledged customer pain point",
+"Customer introduced business profile",
+"Customer shared contact info",
+"Customer asked for delivery form",
+"Customer shared detailed order policy",
+"Agent answered all inquiries",
+"Customer showed interest",
+"Prior context: explained features & pricing"
+
 
 ]
