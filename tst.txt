@@ -1,0 +1,19 @@
+
+[
+"Product information",
+"Pricing inquiries",
+"AI service promotion",
+"Agent replied slowly",
+"Agent replied quickly",
+"Information collection",
+"Shipping and delivery requests",
+"Conversation shows a potential customer",
+"Purchase Request",
+"Customer shows active interest",
+"Instructions were confusing",
+"Instructions were clear",
+"Early-stage buyer",
+"Quote Request",
+
+
+]
