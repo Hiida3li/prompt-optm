@@ -51,6 +51,4 @@
 "Agent answered all inquiries",
 "Customer showed interest",
 "Prior context: explained features & pricing"
-
-
 ]

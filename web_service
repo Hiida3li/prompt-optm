@@ -1,0 +1,10 @@
+digraph "Web Service" {
+	graph [fontcolor="#2D3436" fontname="Sans-Serif" fontsize=15 label="Web Service" nodesep=0.60 pad=2.0 rankdir=LR ranksep=0.75 splines=ortho]
+	node [fixedsize=true fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13 height=1.4 imagescale=true labelloc=b shape=box style=rounded width=1.4]
+	edge [color="#7B8894"]
+	"27b16ee6a9d64922bacada7269872f0b" [label=lb height=1.9 image="/Users/mahmoud/.pyenv/versions/3.12.5/lib/python3.12/site-packages/resources/aws/network/elastic-load-balancing.png" shape=none]
+	"190c241063f04bf9bc425dbad7cae51a" [label=web height=1.9 image="/Users/mahmoud/.pyenv/versions/3.12.5/lib/python3.12/site-packages/resources/aws/compute/ec2.png" shape=none]
+	"27b16ee6a9d64922bacada7269872f0b" -> "190c241063f04bf9bc425dbad7cae51a" [dir=forward fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13]
+	d6b1279ff1974ec7950b6d488d7906ab [label=userdb height=1.9 image="/Users/mahmoud/.pyenv/versions/3.12.5/lib/python3.12/site-packages/resources/aws/database/rds.png" shape=none]
+	"190c241063f04bf9bc425dbad7cae51a" -> d6b1279ff1974ec7950b6d488d7906ab [dir=forward fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13]
+}
